@@ -1,8 +1,8 @@
-package test.shape;
+package shape;
 
 public abstract class Shape {
 
-    public double calculateArea(){
+    public double calculateArea() {
         return 0;
     }
 
