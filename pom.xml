@@ -13,6 +13,7 @@
         <module>classAndObject</module>
         <module>encapsulationAndAccessModifiers</module>
         <module>inheritanceAndPolymorphism</module>
+        <module>javaBasics</module>
     </modules>
 
     <properties>
